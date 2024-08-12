@@ -8,7 +8,7 @@
 [badge-tests]:https://img.shields.io/github/actions/workflow/status/tarampampam/free-domains/tests.yml?branch=master&label=tests&logo=github
 [badge-deploy]:https://img.shields.io/github/actions/workflow/status/tarampampam/free-domains/deploy.yml?branch=master&label=deploy&logo=github
 [actions]:https://github.com/tarampampam/free-domains/actions
-[deploy]:https://github.com/tarampampam/free-domains/actions/workflows/deploy.yml
+[deploy]:https://github.com/tarampampam/free-domains/actions/workflows/deploy-records.yml
 
 # DNS Configuration
 
