@@ -6,7 +6,7 @@
 </div>
 
 [badge-tests]:https://img.shields.io/github/actions/workflow/status/tarampampam/domains/tests.yml?branch=master&label=tests&logo=github
-[badge-deploy]:https://img.shields.io/github/actions/workflow/status/tarampampam/domains/deploy.yml?branch=master&label=deploy&logo=github
+[badge-deploy]:https://img.shields.io/github/actions/workflow/status/tarampampam/domains/deploy-records.yml?branch=master&label=deploy&logo=github
 [actions]:https://github.com/tarampampam/domains/actions
 [deploy]:https://github.com/tarampampam/domains/actions/workflows/deploy-records.yml
 
